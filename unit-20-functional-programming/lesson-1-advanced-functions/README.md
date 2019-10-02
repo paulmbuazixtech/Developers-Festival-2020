@@ -1,0 +1,1 @@
+Access [Lesson's Notebook here](https://github.com/rmotr-curriculum/base-python-curriculum/blob/master/unit-20-functional-programming/lesson-1-advanced-functions/Advanced%20Function%20Features.ipynb).
