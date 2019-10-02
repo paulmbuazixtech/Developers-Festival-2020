@@ -1,0 +1,5 @@
+Unit,Section,Event,Name,Lesson UUID,Learn URL,Type,Status,Is Free
+Python Collections,Strings,Python Strings,Python Strings,f558bc2f-e1d3-41d9-a897-d89a9f57837d,Go >,V,Done,TRUE
+Python Collections,Strings,String Indexing,String Indexing,3d755c0e-ff6f-4f2f-b9a9-78c24e133262,Go >,V,Done,FALSE
+Python Collections,Strings,String Formatting,String Formatting,d2138ed9-8b44-47d1-8a6c-704b4d9ffe3a,Go >,V,Done,FALSE
+Python Collections,Strings,Looping over Strings,Looping over Strings,44121fe7-34f5-4836-a1d3-704fddb7a5eb,Go >,V,Done,TRUE
